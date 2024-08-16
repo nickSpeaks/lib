@@ -1,7 +1,5 @@
 # Unit 1 | Present Continuous (I am doing) | in Use
-## A
 ![](1.1.png)
-## B
 ![](1.2.png)
 ![](1.3.png)
 ## Exercises
