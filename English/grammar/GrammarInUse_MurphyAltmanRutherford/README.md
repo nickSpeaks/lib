@@ -1,7 +1,7 @@
 Chapter 1. Tenses
 Unit 1 – Present Continuous (I am doing)
 
-![](1.1.png)
+![](unit1/1.1.png)
 
 Unit 2 – Simple Present (I do)
 Unit 3 – Present Continuous (I am doing) or Simple Present (I do)?
